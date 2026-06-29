@@ -51,11 +51,11 @@ This project was developed using HTML, CSS, JavaScript, Bootstrap, and is intend
 ```
 LearnSphere/
 │
-├── home.html
-├── login.html
-├── signup.html
-├── about.html
-├── contact.html
+├── home.php
+├── login.php
+├── signup.php
+├── about.php
+├── contact.php
 │
 ├── style.css
 ├── signlog.css

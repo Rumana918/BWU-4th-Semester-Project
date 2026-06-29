@@ -102,7 +102,7 @@ LearnSphere/
 1. Download or Clone the repository.
 
 ```
-git clone https://github.com/yourusername/LearnSphere.git
+git clone https://github.com/Rumana918/LearnSphere.git
 ```
 
 2. Move the project into the XAMPP `htdocs` directory.
